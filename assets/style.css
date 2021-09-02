@@ -1,0 +1,127 @@
+* {
+    font-family: 'Space Mono', monospace;
+}
+body {
+   margin: 0; 
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.tai{
+    margin: auto;
+    height: 300px;
+    width: 200px;
+}
+.summary-section{
+   background-image: url(/assets/images/Space.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-position: center;
+   height: 840px;
+   width: 100vw;
+   color:white;
+}
+.summary {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: large;
+    width: 100%;
+    padding-top: 100px;
+}
+.summary h1 {
+    text-align: center;
+}
+.summary p {
+    font-size: 25px;
+    text-align: center;
+}
+
+.project-section {
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.nav ul {
+    position: absolute;
+    top: 0%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-left: 80px;
+    list-style-type: none;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.nav li{
+    margin: 8px;
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.title {
+    text-align: center;
+    font-size: 20px;
+}
+
+.bio-section {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.tai{
+    height: 300px;
+    width: 200px;
+}
+.bio-p {
+    margin-top: 30px;
+    font-size: 20px;
+    max-width: 1000px;
+}
+
+.contact-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    
+    padding: 0;
+    color: black;
+    text-decoration: none;
+}
+.contact-list a {
+    text-decoration: none;
+    color: black;
+}
+.contact-list li {
+    margin: 20px;
+}
+
+.title h2 {
+    text-decoration: underline;
+}
+
+.coming-soon {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cs-image {
+    height: 450px;
+    width: 500px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+

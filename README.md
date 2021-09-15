@@ -1,1 +1,2 @@
 # TaiNguyen-Portfolio
+This is my Portfolio. This was a very exicting project, because it gave me a good idea on how I would like my project to look like in the future. When i decide to make a new one. The only trouble I had was while doing CSS. Trying to postion everything the way i wanted. The "Coming Soon" pictures, I had to look up on how to postion them 2x2. That was really the only tricky part i had.

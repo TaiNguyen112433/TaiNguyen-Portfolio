@@ -119,9 +119,12 @@ html, body {
 }
 .cs-image {
     height: 450px;
-    width: 500px;
-    margin-left: 150px;
-    margin-right: 150px;
+    width: 800px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
+.project-container p {
+    color: black;
+}
 

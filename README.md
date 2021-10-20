@@ -11,3 +11,5 @@
 ## Links
 - Github: https://github.com/TaiNguyen112433/TaiNguyen-Portfolio
 - Deployed Website: https://tainguyen112433.github.io/TaiNguyen-Portfolio/
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
